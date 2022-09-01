@@ -18,9 +18,16 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+-Projects in May and June were most successful
+-Projects in December were the least successful
 
 - What can you conclude about the Outcomes based on Goals?
+-Campaigns with the lowest goals were the most successful, while campaigns with the highest goals were the least successful
 
 - What are some limitations of this dataset?
+-The dataset does not account for effort, extrenuating circumstances, and fundraising network
 
 - What are some other possible tables and/or graphs that we could create?
+-Success rate by year
+-Success rate by country
+-Outcomes by spotlight status
